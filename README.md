@@ -50,7 +50,7 @@ The Stalcraft Enhancement Suite is a feature-packed toolkit designed to streamli
    - Ensure the folder is excluded from antivirus scans.
 
 3. **Launch**:
-   - Open `EnhancementTool.exe` as Administrator.
+   - Open `Stalcraft.exe` as Administrator.
    - Configure the tool via the interactive setup wizard.
 
 4. **Play**:
