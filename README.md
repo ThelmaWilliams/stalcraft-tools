@@ -61,7 +61,7 @@ The Stalcraft Enhancement Suite is a feature-packed toolkit designed to streamli
 ## Visual Highlights 📸
 
 <p align="center">
-  <img src="https://i.imgur.com/qah4LUb.jpeg" alt="Feature Preview" width="600">
+  <img src="https://i.imgur.com/cKULlsJ.jpeg" alt="Feature Preview" width="600">
 </p>
 
 ---
