@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/ThelmaWilliams/stalcraft-tools?color=brightgreen&label=Release&style=for-the-badge" alt="Release">
-  <img src="https://img.shields.io/github/downloads/adgdsgsd/stalcraft-enhancement/total?color=blue&label=Downloads&style=for-the-badge" alt="Downloads">
-  <img src="https://img.shields.io/github/forks/adgdsgsd/stalcraft-enhancement?color=yellow&label=Forks&style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/downloads/ThelmaWilliams/stalcraft-tools/total?color=blue&label=Downloads&style=for-the-badge" alt="Downloads">
+  <img src="https://img.shields.io/github/forks/ThelmaWilliams/stalcraft-tools?color=yellow&label=Forks&style=for-the-badge" alt="Forks">
   <img src="https://img.shields.io/badge/Platform-Windows-lightblue?style=for-the-badge" alt="Platform">
 </p>
 
